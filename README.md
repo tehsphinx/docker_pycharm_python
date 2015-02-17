@@ -1,4 +1,4 @@
-pycharm_python [![Docker Build Status](http://hubstatus.container42.com/tehsphinx/pycharm_python)](https://registry.hub.docker.com/u/tehsphinx/pycharm_python)
+pycharm_python [![Docker Build Status](http://hubstatus.container42.com/tehsphinx/docker-pycharm-python)](https://registry.hub.docker.com/u/tehsphinx/docker-pycharm-python/)
 ====
 
 Easy to use and [fig](http://www.fig.sh/index.html) compatible Python development box to be used with [PyCharm (JetBrains)](https://www.jetbrains.com/pycharm/). 
@@ -15,10 +15,8 @@ Usage
 
 Best used with [fig](http://www.fig.sh/index.html).
 
-Examples
+Example
 --------
-
-### using [fig](http://www.fig.sh/index.html)
 
 Dockerfile
 
