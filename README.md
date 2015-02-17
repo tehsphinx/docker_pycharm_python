@@ -1,4 +1,4 @@
-pycharm_python [![Docker Build Status](http://hubstatus.container42.com/tehsphinx/docker-pycharm-python)](https://registry.hub.docker.com/u/tehsphinx/docker-pycharm-python/)
+docker-pycharm-python [![Docker Build Status](http://hubstatus.container42.com/tehsphinx/docker-pycharm-python)](https://registry.hub.docker.com/u/tehsphinx/docker-pycharm-python/)
 ====
 
 Easy to use and [fig](http://www.fig.sh/index.html) compatible Python development box to be used with [PyCharm (JetBrains)](https://www.jetbrains.com/pycharm/). 
@@ -22,7 +22,7 @@ Dockerfile
 
 ```
 # Pull base image.
-FROM tehsphinx/pycharm_python
+FROM tehsphinx/docker-pycharm-python
 
 # copy application to image
 ADD . /data/
